@@ -111,7 +111,7 @@ Latest Release Via Yum
 
 RPMs for RHEL7 are available from `the Extras channel <https://access.redhat.com/solutions/912213>`_.
 
-RPMs for RHEL6 are available from yum for `EPEL
+RPMs for RHEL6 are available for yum from `EPEL
 <http://fedoraproject.org/wiki/EPEL>`_ 6 and currently supported
 Fedora distributions.
 
